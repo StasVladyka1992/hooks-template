@@ -2,6 +2,6 @@
 
 echo "pre-push hook is started"
 mvn -f ./pom.xml --settings ./settings.xml clean install
-echo "pre-push hook is finished"
 exit $?
+echo "pre-push hook is finished"
 

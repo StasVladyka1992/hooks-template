@@ -2,6 +2,7 @@
 
 echo "pre-commit hook is started"
 mvn -f ./pom.xml --settings ./settings.xml clean install
-echo "pre-commit hook is finished"
 exit $?
+echo "pre-commit hook is finished"
+
 
