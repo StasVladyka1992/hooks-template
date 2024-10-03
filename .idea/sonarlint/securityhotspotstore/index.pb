@@ -5,3 +5,5 @@
 hooks/pre-commit,4/7/470a5769bb9030c70e5f7755aa1b3e07e95cc08f
 >
 hooks/pre-push,6/d/6d52666d302bda7f252c489cf0beee3b2e24cc8a
+B
+hooks-template.iml,0/9/0956a54a1139adda2b1930b0f5b1a81fa536b571

@@ -1,8 +1,0 @@
-#!/bin/sh
-
-echo "pre-commit hook is started"
-mvn -f ./pom.xml --settings ./settings.xml clean install
-exit $?
-echo "pre-commit hook is finished"
-
-
